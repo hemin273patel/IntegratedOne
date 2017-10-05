@@ -6,8 +6,17 @@ var dynamicContent = {
 
 			images : [
 				"spring_1.jpg",
-				"spring_2.jpg"
-			]
+				"spring_2.jpg",
+                "spring_3.jpg",
+                "spring_4.jpg"
+			],
+            
+            imageDescription : [
+                "This is a bunch of the butterflies!",
+                "This is chick in the garden!",
+                "Enjoy the woods in spring!",
+                "Have a peacefull time in spring!"
+            ]
 		},
 
 		summer : {
@@ -17,8 +26,17 @@ var dynamicContent = {
 
 			images : [
 				"summer_1.jpg",
-				"summer_2.jpg"
-			]
+				"summer_2.jpg",
+                "summer_3.jpg",
+                "summer_4.jpg"
+			],
+            
+            imageDescription : [
+                "Enjoy the sun on the beach!",
+                "Sleep and have joy on the beach!",
+                "Have Fun in the waves!",
+                "Enjoy the hot summerrr!"
+            ]
 		},
 
 		autumn : {
@@ -28,8 +46,17 @@ var dynamicContent = {
 
 			images : [
 				"autumn_1.jpg",
-				"autumn_2.jpg"
-			]
+				"autumn_2.jpg",
+                "autumn_3.jpg",
+                "autumn_4.jpg"
+			],
+            
+            imageDescription : [
+                "See the beauty in the Autumn!",
+                "Have a great food!",
+                "Love the scenes of Autumn!",
+                "Discover the new places!"
+            ]
 		},
 
 		winter : {
@@ -39,7 +66,16 @@ var dynamicContent = {
 
 			images : [
 				"winter_1.jpg",
-				"winter_2.jpg"
-			]
+				"winter_2.jpg",
+                "winter_3.jpg",
+                "winter_4.jpg"
+			],
+            
+            imageDescription : [
+                "See the beauty in the Winter!",
+                "Play with the ice!",
+                "Have a great time!",
+                "Look the love of nature!"
+            ]
 		}
 	};
